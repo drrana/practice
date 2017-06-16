@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="92876" started-at="2017-06-16T11:28:28Z" finished-at="2017-06-16T11:30:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="92876" started-at="2017-06-16T11:28:28Z" finished-at="2017-06-16T11:30:01Z">
+      <class name="TestScript.TcLogin">
+        <test-method status="PASS" signature="InitializeSuite()[pri:0, instance:TestScript.TcLogin@18355a8]" name="InitializeSuite" is-config="true" duration-ms="35" started-at="2017-06-16T16:58:28Z" finished-at="2017-06-16T16:58:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeSuite -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestScript.TcLogin@18355a8]" name="setUp" is-config="true" duration-ms="19971" started-at="2017-06-16T16:58:28Z" finished-at="2017-06-16T16:58:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Verify_Login_process()[pri:0, instance:TestScript.TcLogin@18355a8]" name="Verify_Login_process" duration-ms="18975" started-at="2017-06-16T16:58:48Z" finished-at="2017-06-16T16:59:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Login_process -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestScript.TcLogin@18355a8]" name="tearDown" is-config="true" duration-ms="5349" started-at="2017-06-16T16:59:07Z" finished-at="2017-06-16T16:59:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestScript.TcLogin@18355a8]" name="setUp" is-config="true" duration-ms="19225" started-at="2017-06-16T16:59:13Z" finished-at="2017-06-16T16:59:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Verify_LoggedIn_User()[pri:1, instance:TestScript.TcLogin@18355a8]" name="Verify_LoggedIn_User" duration-ms="24047" started-at="2017-06-16T16:59:32Z" finished-at="2017-06-16T16:59:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_LoggedIn_User -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestScript.TcLogin@18355a8]" name="tearDown" is-config="true" duration-ms="5295" started-at="2017-06-16T16:59:56Z" finished-at="2017-06-16T17:00:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestScript.TcLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
