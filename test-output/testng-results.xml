@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="155166" started-at="2017-06-22T11:50:02Z" finished-at="2017-06-22T11:52:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="155166" started-at="2017-06-22T11:50:02Z" finished-at="2017-06-22T11:52:37Z">
+      <class name="TestScript.TcLogin">
+        <test-method status="PASS" signature="InitializeSuite()[pri:0, instance:TestScript.TcLogin@1c62251]" name="InitializeSuite" is-config="true" duration-ms="1266" started-at="2017-06-22T17:20:01Z" finished-at="2017-06-22T17:20:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeSuite -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestScript.TcLogin@1c62251]" name="setUp" is-config="true" duration-ms="24088" started-at="2017-06-22T17:20:02Z" finished-at="2017-06-22T17:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Verify_Login_process()[pri:0, instance:TestScript.TcLogin@1c62251]" name="Verify_Login_process" duration-ms="19047" started-at="2017-06-22T17:20:26Z" finished-at="2017-06-22T17:20:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Login_process -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestScript.TcLogin@1c62251]" name="tearDown" is-config="true" duration-ms="5502" started-at="2017-06-22T17:20:45Z" finished-at="2017-06-22T17:20:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestScript.TcLogin@1c62251]" name="setUp" is-config="true" duration-ms="19855" started-at="2017-06-22T17:20:51Z" finished-at="2017-06-22T17:21:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Verify_LoggedIn_User()[pri:1, instance:TestScript.TcLogin@1c62251]" name="Verify_LoggedIn_User" duration-ms="24361" started-at="2017-06-22T17:21:10Z" finished-at="2017-06-22T17:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_LoggedIn_User -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestScript.TcLogin@1c62251]" name="tearDown" is-config="true" duration-ms="6794" started-at="2017-06-22T17:21:35Z" finished-at="2017-06-22T17:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestScript.TcLogin@1c62251]" name="setUp" is-config="true" duration-ms="25311" started-at="2017-06-22T17:21:42Z" finished-at="2017-06-22T17:22:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Verify_LoggedIn_User_with_Invalid_Username()[pri:1, instance:TestScript.TcLogin@1c62251]" name="Verify_LoggedIn_User_with_Invalid_Username" duration-ms="24245" started-at="2017-06-22T17:22:07Z" finished-at="2017-06-22T17:22:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_LoggedIn_User_with_Invalid_Username -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestScript.TcLogin@1c62251]" name="tearDown" is-config="true" duration-ms="5938" started-at="2017-06-22T17:22:31Z" finished-at="2017-06-22T17:22:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="sendEmail()[pri:0, instance:TestScript.TcLogin@1c62251]" name="sendEmail" is-config="true" duration-ms="2940" started-at="2017-06-22T17:22:37Z" finished-at="2017-06-22T17:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendEmail -->
+      </class> <!-- TestScript.TcLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
